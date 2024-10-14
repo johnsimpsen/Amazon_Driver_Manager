@@ -1,4 +1,4 @@
-Amazon Driver Area by John Simpsen
+Amazon Driver Manager by John Simpsen
 Manages drivers (name and area) in a linked list by inputting a list of coordinates from a file and outputting data based on an input from a command file
 
 Input Information:
